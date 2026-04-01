@@ -37,7 +37,7 @@ The project is lightweight and ready to run locally or deploy.
 ### 1. Clone & Setup
 ```bash
 # Clone the repo (if not already)
-git clone <your-repo-url>
+git clone https://github.com/Pragyan2004/MLOPS_CI.git
 cd MLOPS_CI
 
 # Create virtual environment (recommended)
